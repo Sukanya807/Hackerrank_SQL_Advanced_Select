@@ -12,5 +12,9 @@ This repository contains the solutions to HackerRank SQL Advanced SELECT questio
 
 ![](resources/question1_1.png)
 
+![](resources/question1_2.png)
+
+![](resources/question_1_answer.png)
+
 
 
