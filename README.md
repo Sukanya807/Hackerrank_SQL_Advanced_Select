@@ -10,7 +10,7 @@ This repository contains the solutions to HackerRank SQL Advanced SELECT questio
 
 ## SOLUTIONS
 
-### Problem 1:
+## Problem 1: Type of Triangle
 
 ![](resources/question1_1.png)
 
@@ -20,7 +20,7 @@ This repository contains the solutions to HackerRank SQL Advanced SELECT questio
 
 ![](resources/question_1_answer.png)
 
-### Problem 2:
+### Problem 2: THE PADS
 
 ![](resources/question_2_1.png)
 
@@ -32,7 +32,7 @@ This repository contains the solutions to HackerRank SQL Advanced SELECT questio
 
 ![](resources/question_2_answer.png)
 
-### Problem 3:
+### Problem 3: Occupations
 
 ![](resources/question_3_1.png)
 
@@ -42,7 +42,7 @@ This repository contains the solutions to HackerRank SQL Advanced SELECT questio
 
 ![](resources/question_3_answer.png)
 
-### Problem 4:
+### Problem 4: Binary Tree Nodes
 
 ![](resources/question_4_1.png)
 
@@ -54,7 +54,7 @@ This repository contains the solutions to HackerRank SQL Advanced SELECT questio
 
 ![](resources/question_4_answer.png)
 
-### Problem 5:
+### Problem 5: New Companies
 
 ![](resources/question_5_1.png)
 
